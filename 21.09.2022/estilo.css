@@ -1,0 +1,14 @@
+/* pra chamar class usa ponto, pra chamar id usa hashtag */
+.cor{
+    color: rgb(13, 25, 197);
+}
+#h1-cor{
+    color: chartreuse;
+}
+
+#p-fonte{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    text-align: justify;
+}

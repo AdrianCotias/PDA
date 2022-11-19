@@ -1,0 +1,29 @@
+button{
+    /* margem de cima */
+    margin-top: 100px;
+    /* margem da esquerda para direita */
+    margin-left: 100px;
+    /* margem da direita para esquerda */
+    margin-right: 100px;
+    /* margem de baixo */
+    margin-bottom: 100px;
+}
+#botao-espacamento{
+    background-color: blueviolet;
+    /* Atalho para a declaração de todas as partes da margem*/
+    margin: 0px;
+    /* atalhos para espaçamentos internos separados */
+    /* padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+    padding: 200px 20px;  */
+    padding: 10px;
+    border-style: none;
+}
+#botao-border{
+    /* border-style: double;
+    border-width: 15px;
+    border-color: aqua; */
+    border: 15px double aqua;
+}
